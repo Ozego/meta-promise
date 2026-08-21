@@ -14,3 +14,4 @@ memoribelia:
 notes:
 - The promise is tracked in this repository.
 - The repo is the working memory for promise-related follow-through.
+- The revised prompt template lives in `prompt-revision-template.md`.

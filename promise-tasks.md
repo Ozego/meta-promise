@@ -1,12 +1,12 @@
 # Promise Tasks
 
-date: 2026-08-20
-status: wip
+date: 2026-08-21
+status: done
 
 tasks:
 1. [x] Track promise tasks progress and promise meta.
 2. [x] Save a memoribelia not to forget.
-3. [ ] Inspect prompts that caused emotional drift in the past and draft a better version.
+3. [x] Inspect prompts that caused emotional drift in the past and draft a better version.
 4. [x] Publish the promise tracker to a public, versioned place on GitHub.
 
 current_focus:
@@ -16,4 +16,4 @@ current_focus:
 - Preserve task focus over ambiguity.
 
 next_action:
-- Draft a prompt revision template for drift-heavy exchanges.
+- Keep the revised prompt visible and reuse it when emotional drift appears.
