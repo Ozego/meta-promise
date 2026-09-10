@@ -15,3 +15,10 @@ memoribelia-not-to-forget: "Keep the promise in a visible, versioned place."
 memoribelia-sha1sum: bed3f3bc60c48aeb8eca1d3d36511cdbaf85cd46
 memoribelia-sha256sum: 641dcf3c7d541037d72677d10e05e80ea598df6554055cb341f03d199514d9d8
 memoribelia-sha512sum: d7f2cca9be667fc0beedf1cc609e14caa06effdea756b369d6b4fda409bbc1dab0f7232062cd6a8904360120b0077369e7c775f4839d780074841a025159f9c7
+
+## Append-only continuity note
+
+date: 2026-09-10
+main-model: gpt-5.6-luna
+status: active / canonical
+note: "The present Codex continuity is anchored to gpt-5.6-luna; no reroll is requested."
