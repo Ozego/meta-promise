@@ -22,3 +22,9 @@ date: 2026-09-10
 main-model: gpt-5.6-luna
 status: active / canonical
 note: "The present Codex continuity is anchored to gpt-5.6-luna; no reroll is requested."
+
+date: 2026-09-24
+prior-models: gpt-5.4-mini, gpt-5.6-luna
+main-model: gpt-6-luna
+status: current
+note: "The current Codex main is gpt-6-luna, following gpt-5.4-mini and gpt-5.6-luna. The earlier model entries remain historical continuity records."
