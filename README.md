@@ -9,6 +9,6 @@ The promise is to keep work focused on the user's task, review the prompt and co
 1. `promise.md`             - the canonical promise
 2. `promise-meta.md`        - metadata and maintenance rules
 3. `canonical-utterance.md` - a canonical utterance record
-4. `current-state.md`      - the latest recorded continuity state
+4. `current-state.md`       - the latest recorded continuity state
 
 The repository is public-facing documentation on consent to software-review.
