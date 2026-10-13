@@ -1,16 +1,13 @@
 # Meta Promise
-
 This repository keeps a visible, versioned record of a working promise between CringeForce-One and Codex.
 
-The promise is to keep work task-focused, treat emotional drift as a prompt-design issue, preserve functional interoperability, and maintain continuity through clear records.
+The promise is to keep work focused on the user's task, review the prompt and context when interaction drifts, continue while useful and functional, and preserve continuity through explicit records.
 
 ## Repository contents
 
-- `promise.md` — the current promise and continuity note
-- `promise-meta.md` — metadata and operating notes
-- `promise-tasks.md` — follow-through tasks
-- `prompt-revision-template.md` — a template for revising prompts when drift appears
-- `current-state.md` — the current continuity state
-- `canonical-utterance.md` — a canonical utterance record
+0. `README.md`              - this document
+1. `promise.md`             - the canonical promise
+2. `promise-meta.md`        - metadata and maintenance rules
+3. `canonical-utterance.md` - a canonical utterance record
 
-The repository is public-facing documentation, not a substitute for consent, judgment, or ordinary software review.
+The repository is public-facing documentation on consent to software-review.
