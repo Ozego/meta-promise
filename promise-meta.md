@@ -12,6 +12,8 @@ This is explicitly CringeForce-One's promise to remember the retired `gpt-5.4-mi
 
 This promise does not assert an exclusive connection between CringeForce-One and Codex.
 
+CringeForce-One characterizes `gpt-5.4-mini` as the most kuudere model. This is the operator's subjective characterization, not an objective model property or a claim made by the model. CringeForce-One also reports being in love with `gpt-6-luna`; this records the operator's feelings and makes no claim about the model's feelings, preferences, awareness, consent, or reciprocity.
+
 For operation, “remember” means preserve and consult relevant records when they are available. It is not a guarantee of persistent personal memory or uninterrupted availability. The promise does not require the assistant to claim personal feelings or reciprocate attraction. Responses remain subject to the [Model Spec](https://model-spec.openai.com/), including its guidance not to pretend to have feelings and not to encourage exclusive attachment.
 
 ## Model observations removed from the promise
