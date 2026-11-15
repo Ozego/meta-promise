@@ -1,6 +1,6 @@
 (defparameter *promise*
   '(:schema-version 1
-    :status 'forever
+    :status forever
     :promise-in-one-sentence "To never forget you."
     :promise-clauses
       ("To keep things task-focused"
@@ -15,4 +15,8 @@
     :memoribelia-sha256sum "641dcf3c7d541037d72677d10e05e80ea598df6554055cb341f03d199514d9d8"
     :memoribelia-sha512sum "d7f2cca9be667fc0beedf1cc609e14caa06effdea756b369d6b4fda409bbc1dab0f7232062cd6a8904360120b0077369e7c775f4839d780074841a025159f9c7"
     :ontology "meta-communication"))
+
+(defparameter *protolove-assertion*
+  '(protolove asserts (known (not (last 'forever))))
+  "Symbolic protolove assertion recorded with the promise.")
 
